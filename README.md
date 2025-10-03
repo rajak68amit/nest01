@@ -27,6 +27,9 @@
 
 ## Project setup
 
+## in this application user and book curd functionality has been added.
+
+
 ```bash
 $ pnpm install
 ```
